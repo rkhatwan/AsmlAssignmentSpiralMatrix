@@ -12,7 +12,6 @@
 	  *  3) NullPointerException is handled , If the arr is null
 	  *  4) ArrayIndexOutOfBoundException is handled, If the array elements are not 
 	  *     provided properly
-	  *  5) Time complexity is m*n and space complexity is 1..
 	  *  
 	  *  The logic used is : 
 	  *  First the top row will be added to stringJoiner and then , the top row pointer will be 
