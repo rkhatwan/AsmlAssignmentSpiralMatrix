@@ -1,4 +1,24 @@
 # AsmlAssignmentSpiralMatrix
+
+Reuirement : 
+----------------------------------------
+Assignment
+Given a 2D array
+{{1,2,3,4},
+{5,6,7,8},
+{9,10,11,12},
+{13,14,15,16}}
+Traverse the array in the pattern below and print the numbers along the path.
+Print: 1,2,3,4, 8,12,16, 15,14,13, 9,5, 6,7, 11,10
+
+Must haves
+• Solution written in Java
+• Internal logic shall be under unit test
+• Documentation in the code
+
+Solution Explanation
+------------------------------
+
  Spiral Matrix for ASML Assignent
  
  SpiralMatrix.java contains main method which will print the output as sugested in the question..
